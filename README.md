@@ -6,7 +6,8 @@ Syarat:<br>
 3.iKuti tutorial ini sampe sukses http://www.mikrotik.co.id/artikel_lihat.php?id=272<br>
 4.Silahkan download scriptnya script QR Scan disini https://drive.google.com/file/d/1pKvOEB1FWBStAteF6cy42MhOq_FO8kKD/view<br>
 
-<img border="0" src="https://3.bp.blogspot.com/-Mt7pTJj938E/W3oOs2OsAPI/AAAAAAAAO-I/PUWSbilXkMcfPKKlOzsm3eF9RE7T-Qv3ACLcBGAs/s1600/Untitled2.png"/>
+![image](https://user-images.githubusercontent.com/42666125/111258828-54043680-8650-11eb-9188-c422815238b9.png)
+
 
 Tutorial selengkapnya bisa baca disini http://www.o-om.com/2018/08/memasang-login-hotspot-dengan-qr-scan.html
 
