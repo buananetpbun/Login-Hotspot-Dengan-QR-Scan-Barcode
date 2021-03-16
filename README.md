@@ -1,4 +1,4 @@
-# Login-Hotspot-Dengan-QR-Scan-Barcode
+# Login Hotspot Dengan QR Scan Barcode
 
 Syarat:<br>
 1.Pemahaman Web terutama JavaScript, HTML dan CSS sangat di perlukan.<br>
