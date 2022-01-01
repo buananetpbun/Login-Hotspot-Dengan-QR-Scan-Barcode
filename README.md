@@ -11,6 +11,6 @@ Syarat:<br>
 
 Tutorial selengkapnya bisa baca disini http://www.o-om.com/2018/08/memasang-login-hotspot-dengan-qr-scan.html
 
-<b>Powered by webqr.com</b>
+## <b>Powered by webqr.com</b>
 
 
